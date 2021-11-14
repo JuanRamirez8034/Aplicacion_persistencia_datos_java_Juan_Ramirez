@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SEProyect</string>
+    <string name="txtPrincipal">Escoge una opción: </string>
+    <string name="rdbutton1">Capitales</string>
+    <string name="rdbutton2">Países</string>
+    <string name="idmsjText">Resultado</string>
+    <string name="idbtn">Encontrar</string>
+    <string name="idbtn2">¡Ayúdanos!</string>
+
+    <string name="txtPrincipal2">Ingrese los datos: </string>
+    <string name="editCapitaL">Capital</string>
+    <string name="editPais">País</string>
+    <string name="idGuardar">¡Guardar!</string>
+    <string name="idRegresar">Regresar</string>
+</resources>
